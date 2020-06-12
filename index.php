@@ -1,14 +1,12 @@
 <body bgcolor='aqua'>
-<marquee>TERRAFORM IS A GREAT TOOL GUYS </marquee>
+<marquee><h1>TERRAFORM IS A GREAT TOOL GUYS</h1> </marquee>
 <h1>WELCOME TO MY WEBPAGE</h1>
-<p>and this is the  ip address of the instance where its is deployed</p>
+<h2>And this is the  ip address of the instance where it is deployed</h2>
 <br/>
 
 <pre>
 
-<?php>
-print `ifconfig`;
-?>
+ <p><?php print `ifconfig` ?></p>
 
 </body>
 </pre>
