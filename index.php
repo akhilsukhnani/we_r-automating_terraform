@@ -1,12 +1,10 @@
-<body bgcolor='aqua'>
-<marquee><h1>TERRAFORM IS A GREAT TOOL GUYS</h1> </marquee>
-<h1>WELCOME TO MY WEBPAGE</h1>
-<h2>And this is the  ip address of the instance where it is deployed</h2>
-<br/>
+<html>
+<body>
+<body bgcolor='blue'>
+<marquee><h1>After completing the task i was like !</h1></marquee>
 
-<pre>
-
- <p><?php print `ifconfig` ?></p>
+<img src="https://thisbucketisforterraform.s3.ap-south-1.amazonaws.com/ricknmorty.jpg" alt="Girl in a jacket" width="600" height="600">
 
 </body>
-</pre>
+</html>
+
